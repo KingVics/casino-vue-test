@@ -67,6 +67,7 @@ const onSubmit = (event) => {
 
     emit('formSubmit', formData);
 
+
     // set in text area
     document.querySelector('#result').value = JSON.stringify(formData);
 
@@ -121,6 +122,7 @@ input, select, textarea {
 .button-container {
     text-align: center;
     margin-bottom: 20px;
+    margin-block: 16px;
 
     button {
         margin: auto;
