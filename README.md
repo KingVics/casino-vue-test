@@ -15,3 +15,4 @@ El repo contiene un formulario modular.
 <img src="./src/assets/result.png" alt="screenshot" width="500"/>
 
 # casino-vue-test
+# casino-vue-test
